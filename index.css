@@ -1,0 +1,28 @@
+.eka {
+    background-color: burlywood;
+    width: 900px;
+    height: 1200px;
+    margin: auto;
+}
+
+#deka {
+    background-color: cadetblue;
+    width: 900px;
+    height: 200px;
+    margin: auto;
+}
+
+.thuna {
+    color: antiquewhite;
+
+}
+
+.hathara {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+.paha {
+    color: antiquewhite;
+    text-decoration: none;
+}
